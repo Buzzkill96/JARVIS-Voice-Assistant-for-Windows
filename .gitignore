@@ -1,0 +1,6 @@
+# Private keys - never upload this
+settings.json
+
+# Python leftovers
+__pycache__/
+*.pyc
